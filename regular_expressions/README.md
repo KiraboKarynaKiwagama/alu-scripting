@@ -21,4 +21,4 @@ It is used to match, find, and manipulate strings in text.
 - Escaping characters `\.`
 
 ## Author
-Your Name
+Kirabo Karyna Kiwagama
